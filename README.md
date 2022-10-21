@@ -30,23 +30,23 @@ Portable programmable power supply (PPPS) is a compact and efficient USB power s
 
 **mcu module**
 
-![](sch\v2\Schematic_ppps_mcu_v2_2022-10-20.png)
+![](sch/v2/Schematic_ppps_mcu_v2_2022-10-20.png)
 
 **power module**
 
-![](sch\v2\Schematic_ppps_power_2022-10-20.png)
+![](sch/v2/Schematic_ppps_power_2022-10-20.png)
 
 **USB board**
 
-![](sch\v2\Schematic_ppps_usb_v2_2022-10-20.png)
+![](sch/v2/Schematic_ppps_usb_v2_2022-10-20.png)
 
 **front panel**
 
-![](sch\v2\Schematic_ppps_front_panel_2022-10-20.png)
+![](sch/v2/Schematic_ppps_front_panel_2022-10-20.png)
 
 **back panel**
 
-![](sch\v2\Schematic_ppps_back_panel_2022-10-20.png)
+![](sch/v2/Schematic_ppps_back_panel_2022-10-20.png)
 
 
 
